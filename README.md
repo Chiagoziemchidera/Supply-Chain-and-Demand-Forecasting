@@ -1,4 +1,4 @@
-# Supply Chain Analytics & Demand Forecasting
+# Supply Chain & Demand Forecasting
 
 ## Project Summary
 This project focuses on two key areas: **Supply Chain Analytics** and **Demand Forecasting**. The main goal is to use advanced analytics and forecasting techniques to generate actionable insights that improve decision-making in supply chain operations. The demand forecasting component specifically predicts product demand for the upcoming month to guide inventory planning.
